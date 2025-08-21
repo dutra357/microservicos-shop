@@ -1,0 +1,8 @@
+[submodule "ordering"]
+	path = ordering
+	url = https://github.com/dutra357/ordering
+	branch = main
+[submodule "docs"]
+	path = docs
+	url = https://github.com/dutra357/docs
+	branch = main
